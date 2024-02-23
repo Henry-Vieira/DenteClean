@@ -1,0 +1,18 @@
+[
+    {
+        "iD": 1,
+        "data": "21/02/2024",
+        "hora": "08:00",
+        "duracao": "300",
+        "atendimentos": [
+            {
+                "nome": "henry",
+                "cpf": "123456789",
+                "data": "21/02/2024",
+                "horario": "08:00"
+            }
+        ],
+        "disponivel": true,
+        "iniciada": true
+    }
+]
